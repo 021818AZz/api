@@ -30,7 +30,6 @@
       "dataCompra": "2025-05-02T10:45:57.883Z",
       "id": 29
     }
-    
   ],
 
   "retiradas": [
@@ -43,10 +42,10 @@
       "status": true,
       "id": "7wIUsvR"
     }
-    
   ],
 
-  "depositos": [{
+  "depositos": [
+    {
       "userId": "109rms",
       "produto": "vip1",
       "preco": 5000,
@@ -56,7 +55,7 @@
       "dataCompra": "2025-05-02T10:45:57.883Z",
       "id": 29
     }
-    ]
+  ],
 
   "iban": []
 }
