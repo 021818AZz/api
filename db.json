@@ -14,7 +14,7 @@
     "senha": "021818",
     "codigo_convite": "2jc7q23tb",
     "codigo_convite_referido": "",
-    "saldo": 5971
+    "saldo": 15811
   },
   {
     "id": "8m59oo",
@@ -230,7 +230,7 @@
     "senha": "molamola",
     "codigo_convite": "RPBJXJXST",
     "codigo_convite_referido": "MLTC4QB5G",
-    "saldo": 690
+    "saldo": 60
   },
   {
     "id": "ji2xcq",
@@ -239,7 +239,7 @@
     "senha": "messalo",
     "codigo_convite": "02V73KEM6",
     "codigo_convite_referido": "TJN9WF20M",
-    "saldo": 20
+    "saldo": 40
   },
   {
     "id": "kklh1c",
@@ -248,7 +248,7 @@
     "senha": "Desbravadores1$",
     "codigo_convite": "0N9551AS6",
     "codigo_convite_referido": "TJN9WF20M",
-    "saldo": 50
+    "saldo": 20
   },
   {
     "id": "812nk1",
@@ -311,7 +311,7 @@
     "senha": "Magrelo",
     "codigo_convite": "0UYED2RZ3",
     "codigo_convite_referido": "XW5FF89KU",
-    "saldo": 20
+    "saldo": 1640
   },
   {
     "id": "0jiu3k",
@@ -599,7 +599,7 @@
     "senha": "Africa",
     "codigo_convite": "WLH6J08EO",
     "codigo_convite_referido": "T2MSLS77S",
-    "saldo": 0
+    "saldo": 420
   },
   {
     "id": "ypj4gm",
@@ -680,7 +680,7 @@
     "senha": "nv060700",
     "codigo_convite": "5B00R6OH0",
     "codigo_convite_referido": "UHD14924A",
-    "saldo": 420
+    "saldo": 90
   },
   {
     "id": "jzir45",
@@ -761,7 +761,7 @@
     "senha": "paty266",
     "codigo_convite": "APJBQ5GZY",
     "codigo_convite_referido": "02V73KEM6",
-    "saldo": 490
+    "saldo": 1050
   },
   {
     "id": "7pwgrb",
@@ -887,7 +887,7 @@
     "senha": "123456",
     "codigo_convite": "R5N4HZADT",
     "codigo_convite_referido": "TJN9WF20M",
-    "saldo": 0
+    "saldo": 540
   },
   {
     "id": "7y82q9",
@@ -1571,7 +1571,7 @@
     "senha": "200202",
     "codigo_convite": "RYOTHFABD",
     "codigo_convite_referido": "0UYED2RZ3",
-    "saldo": 0
+    "saldo": 840
   },
   {
     "id": "3h4pgs",
@@ -1715,7 +1715,7 @@
     "senha": "180420",
     "codigo_convite": "BH756DJS6",
     "codigo_convite_referido": "2jc7q23tb",
-    "saldo": 420
+    "saldo": 1260
   },
   {
     "id": "64rr44",
@@ -1805,7 +1805,7 @@
     "senha": "Albina19",
     "codigo_convite": "R82WNQIDS",
     "codigo_convite_referido": "WM7FPIX82",
-    "saldo": 420
+    "saldo": 90
   },
   {
     "id": "avhpia",
@@ -3121,13 +3121,517 @@
     "codigo_convite_referido": "URND5LDJ5",
     "saldo": 0
   },
-   {
+  {
     "id": "5mz86a",
     "nome": "Edson Cost",
     "telefone": "956015375",
     "senha": "JULHO80",
     "codigo_convite": "RIQNS6JXY",
     "codigo_convite_referido": "TJN9WF20M",
+    "saldo": 0
+  },
+  {
+    "id": "wtdttd",
+    "nome": "Eduardo Barbosa De Lima ",
+    "telefone": "914997071",
+    "senha": "Eduardo09",
+    "codigo_convite": "GUEJQ1WU3",
+    "codigo_convite_referido": "J9Y29R0LO",
+    "saldo": 0
+  },
+  {
+    "id": "n047rv",
+    "nome": "Nunes west ",
+    "telefone": "943589396",
+    "senha": "Djnuneswest",
+    "codigo_convite": "N8WRBGW38",
+    "codigo_convite_referido": "WLH6J08EO",
+    "saldo": 0
+  },
+  {
+    "id": "0gk4cp",
+    "nome": "José Beque",
+    "telefone": "924232650",
+    "senha": "123456",
+    "codigo_convite": "VO3S6NM9P",
+    "codigo_convite_referido": "",
+    "saldo": 0
+  },
+  {
+    "id": "u7bwiz",
+    "nome": "Carlos Coragem",
+    "telefone": "929500750",
+    "senha": "929500750C",
+    "codigo_convite": "8320Y8J4W",
+    "codigo_convite_referido": "",
+    "saldo": 0
+  },
+  {
+    "id": "f2r156",
+    "nome": "FERNANDO CAMUELE JACINTO",
+    "telefone": "929359235",
+    "senha": "helena929",
+    "codigo_convite": "71HFFNMKH",
+    "codigo_convite_referido": "ZVFEG3HB8",
+    "saldo": 0
+  },
+  {
+    "id": "6uvyen",
+    "nome": "Nelson José Manuel Quitumbo",
+    "telefone": "928647035",
+    "senha": "Paz30Mato",
+    "codigo_convite": "QK8NCYZWG",
+    "codigo_convite_referido": "OBMGXGX6R",
+    "saldo": 420
+  },
+  {
+    "id": "6lhinw",
+    "nome": "Kialas Wakandiano ",
+    "telefone": "934103832",
+    "senha": "kialas",
+    "codigo_convite": "GDZO3ZWNW",
+    "codigo_convite_referido": "R5N4HZADT",
+    "saldo": 10
+  },
+  {
+    "id": "k7uka8",
+    "nome": "Kialas Wakandiano ",
+    "telefone": "934103832",
+    "senha": "kialas",
+    "codigo_convite": "KCQUK5CD3",
+    "codigo_convite_referido": "R5N4HZADT",
+    "saldo": 0
+  },
+  {
+    "id": "dn8exa",
+    "nome": "Filipe Paulino ",
+    "telefone": "951448618",
+    "senha": "Angola9",
+    "codigo_convite": "DHB4AXT71",
+    "codigo_convite_referido": "J9Y29R0LO",
+    "saldo": 0
+  },
+  {
+    "id": "h45vyz",
+    "nome": "Dário Jorge ",
+    "telefone": "957085031",
+    "senha": "Darilson19",
+    "codigo_convite": "XHKMDBD19",
+    "codigo_convite_referido": "J9Y29R0LO",
+    "saldo": 10
+  },
+  {
+    "id": "fozxf5",
+    "nome": "Keta Cunhenguende ",
+    "telefone": "922351713",
+    "senha": "220791",
+    "codigo_convite": "4CZATAOIL",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "fcdvv8",
+    "nome": "Augusto Muendo",
+    "telefone": "940720051",
+    "senha": "leosmart",
+    "codigo_convite": "PSUOYOY9U",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "dbj520",
+    "nome": "Miguel Félix ",
+    "telefone": "957471600",
+    "senha": "24141516",
+    "codigo_convite": "VCXIIDTS5",
+    "codigo_convite_referido": "JT5NT4X19",
+    "saldo": 0
+  },
+  {
+    "id": "ewsjdh",
+    "nome": "Xavier Fernando ",
+    "telefone": "922659679",
+    "senha": "R3ivax10",
+    "codigo_convite": "J11FEZSMC",
+    "codigo_convite_referido": "LDTVQ6RV6",
+    "saldo": 0
+  },
+  {
+    "id": "rtpclk",
+    "nome": "Elisio ",
+    "telefone": "955564600",
+    "senha": "Alexandra2005@",
+    "codigo_convite": "C56K60L6O",
+    "codigo_convite_referido": "J9Y29R0LO",
+    "saldo": 0
+  },
+  {
+    "id": "7w2bcx",
+    "nome": "Elisio ",
+    "telefone": "955564600",
+    "senha": "Alexandra2005@",
+    "codigo_convite": "5XEGDZHYB",
+    "codigo_convite_referido": "J9Y29R0LO",
+    "saldo": 0
+  },
+  {
+    "id": "i8t5e3",
+    "nome": "Juliano Pascoal ",
+    "telefone": "942507461",
+    "senha": "408282",
+    "codigo_convite": "YLBSK1FJY",
+    "codigo_convite_referido": "J9Y29R0LO",
+    "saldo": 0
+  },
+  {
+    "id": "1388ai",
+    "nome": "Jose Gaspar",
+    "telefone": "932014039",
+    "senha": "escola",
+    "codigo_convite": "L3C885M8N",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "q6el4v",
+    "nome": "Tandu João Ernesto Vumbo",
+    "telefone": "931327742",
+    "senha": "12345678",
+    "codigo_convite": "0432V5TZ0",
+    "codigo_convite_referido": "6ANEA01IR",
+    "saldo": 0
+  },
+  {
+    "id": "sx03yb",
+    "nome": "José Mendonça ",
+    "telefone": "946568606",
+    "senha": "gilson*123#",
+    "codigo_convite": "GNJJ5G0NF",
+    "codigo_convite_referido": "PO7XPMR0H",
+    "saldo": 0
+  },
+  {
+    "id": "kkbmc8",
+    "nome": "Isaias Benito ",
+    "telefone": "942574390",
+    "senha": "Rosario",
+    "codigo_convite": "OHPPCQOSB",
+    "codigo_convite_referido": "R2I9AKMWI",
+    "saldo": 0
+  },
+  {
+    "id": "tehc0u",
+    "nome": "José ",
+    "telefone": "925001579",
+    "senha": "zekilson",
+    "codigo_convite": "TW8HRFSXQ",
+    "codigo_convite_referido": "WM7FPIX82",
+    "saldo": 0
+  },
+  {
+    "id": "5wpn7y",
+    "nome": "Flávio Teixeira Xavier",
+    "telefone": "942634212",
+    "senha": "SAYLANE@2023",
+    "codigo_convite": "9OHJHMLG7",
+    "codigo_convite_referido": "GDZO3ZWNW",
+    "saldo": 0
+  },
+  {
+    "id": "hsj87x",
+    "nome": "Clementina Chilombo Da Cunha Augusto ",
+    "telefone": "930478082",
+    "senha": "280587",
+    "codigo_convite": "DC1DHPJ86",
+    "codigo_convite_referido": "WM7FPIX82",
+    "saldo": 0
+  },
+  {
+    "id": "pb01mr",
+    "nome": "dorivaldotaleva",
+    "telefone": "939166796",
+    "senha": "939166796",
+    "codigo_convite": "EHLH0YBNJ",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "1xpskf",
+    "nome": "Wilson Quituxi",
+    "telefone": "952717029",
+    "senha": "Wilma1486",
+    "codigo_convite": "WJD5NU2O5",
+    "codigo_convite_referido": "J004MASP6",
+    "saldo": 0
+  },
+  {
+    "id": "ac95zj",
+    "nome": "Fidel António ",
+    "telefone": "956215175",
+    "senha": "Primogenito1",
+    "codigo_convite": "LZ5991QH7",
+    "codigo_convite_referido": "JT5NT4X19",
+    "saldo": 0
+  },
+  {
+    "id": "35ihr9",
+    "nome": "Adilson Jorge",
+    "telefone": "975116529",
+    "senha": "Jorginho7",
+    "codigo_convite": "CNX2THEJN",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "vfo9su",
+    "nome": "Dorito Soma Picareta ",
+    "telefone": "957939660",
+    "senha": "Doritosoma",
+    "codigo_convite": "PH28L25DH",
+    "codigo_convite_referido": "JT5NT4X19",
+    "saldo": 0
+  },
+  {
+    "id": "qaxjpy",
+    "nome": "Dorito Soma Picareta ",
+    "telefone": "957939660",
+    "senha": "Doritosoma",
+    "codigo_convite": "E41535FVX",
+    "codigo_convite_referido": "JT5NT4X19",
+    "saldo": 0
+  },
+  {
+    "id": "wnfzpt",
+    "nome": "Ezequiel Vicente ",
+    "telefone": "933972075",
+    "senha": "123456",
+    "codigo_convite": "VSW3OYT0G",
+    "codigo_convite_referido": "TJN9WF20M",
+    "saldo": 0
+  },
+  {
+    "id": "a7z9rp",
+    "nome": "Keizi lozao",
+    "telefone": "949631078",
+    "senha": "republic",
+    "codigo_convite": "KABHFZDGU",
+    "codigo_convite_referido": "4WCV7118Y",
+    "saldo": 0
+  },
+  {
+    "id": "ebpv3p",
+    "nome": "Helena ",
+    "telefone": "951889510",
+    "senha": "112233",
+    "codigo_convite": "21OWXITL4",
+    "codigo_convite_referido": "WM7FPIX82",
+    "saldo": 0
+  },
+  {
+    "id": "4zy6qo",
+    "nome": "Margarida Vasco Domingos Francisco Cazenga ",
+    "telefone": "952127505",
+    "senha": "dequimo",
+    "codigo_convite": "EL7W95T8K",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "2gd4y3",
+    "nome": "André Costa ",
+    "telefone": "923556664",
+    "senha": "Tnr070399",
+    "codigo_convite": "RRNFXP34H",
+    "codigo_convite_referido": "JQW6E4K7J",
+    "saldo": 0
+  },
+  {
+    "id": "11ffee",
+    "nome": "Guebi Zanguio",
+    "telefone": "928412313",
+    "senha": "GuebiZanguio",
+    "codigo_convite": "ZXLZ2J5I9",
+    "codigo_convite_referido": "CNX2THEJN",
+    "saldo": 0
+  },
+  {
+    "id": "hagea3",
+    "nome": "João Avelino ",
+    "telefone": "921623453",
+    "senha": "098765",
+    "codigo_convite": "GYKNC3BU1",
+    "codigo_convite_referido": "J9Y29R0LO",
+    "saldo": 0
+  },
+  {
+    "id": "wpfrfh",
+    "nome": "Sara",
+    "telefone": "933739360",
+    "senha": "123456",
+    "codigo_convite": "82CF6HW5J",
+    "codigo_convite_referido": "PYB0W6SRS",
+    "saldo": 0
+  },
+  {
+    "id": "kxxwk1",
+    "nome": "Francisco Novato",
+    "telefone": "936432052",
+    "senha": "francisco",
+    "codigo_convite": "3M5TWKG9L",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "w3w5sd",
+    "nome": "Joaquim Kaála ",
+    "telefone": "949499590",
+    "senha": "Nicknick1@",
+    "codigo_convite": "XT7H5OKST",
+    "codigo_convite_referido": "4WCV7118Y",
+    "saldo": 0
+  },
+  {
+    "id": "lmyonl",
+    "nome": "Meury Da Costa",
+    "telefone": "930953647",
+    "senha": "Kilson",
+    "codigo_convite": "260RAJW46",
+    "codigo_convite_referido": "TJN9WF20M",
+    "saldo": 0
+  },
+  {
+    "id": "fxv921",
+    "nome": "Isabel Filipe ",
+    "telefone": "924224267",
+    "senha": "Isabel",
+    "codigo_convite": "KCX2085KV",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "881tlk",
+    "nome": "João de Almeida",
+    "telefone": "932534633",
+    "senha": "leolion",
+    "codigo_convite": "66H460BPU",
+    "codigo_convite_referido": "J9Y29R0LO",
+    "saldo": 0
+  },
+  {
+    "id": "8bwyvk",
+    "nome": "Julião pedro",
+    "telefone": "926336721",
+    "senha": "C1eleste",
+    "codigo_convite": "QOU9AJJS1",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "eqklk6",
+    "nome": "Domingos ",
+    "telefone": "926202543",
+    "senha": "mirela2015",
+    "codigo_convite": "06AP2RFN2",
+    "codigo_convite_referido": "SYY569L3D",
+    "saldo": 0
+  },
+  {
+    "id": "0hbetc",
+    "nome": "Delfina Suares",
+    "telefone": "952673252",
+    "senha": "Delfina",
+    "codigo_convite": "OYHO1YXLG",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "aymvjf",
+    "nome": "Fernando Raul Ramos ",
+    "telefone": "958678208",
+    "senha": "Fernando12",
+    "codigo_convite": "KAGSHVI2T",
+    "codigo_convite_referido": "TJN9WF20M",
+    "saldo": 0
+  },
+  {
+    "id": "wt0pv8",
+    "nome": "Osvaldo Gaspar bandeira ",
+    "telefone": "935635967",
+    "senha": "Osvaldo&&&",
+    "codigo_convite": "POBJTMLN2",
+    "codigo_convite_referido": "RYOTHFABD",
+    "saldo": 0
+  },
+  {
+    "id": "yskmaw",
+    "nome": "Armando José ",
+    "telefone": "955454974",
+    "senha": "debora",
+    "codigo_convite": "TNXWB97CB",
+    "codigo_convite_referido": "JT5NT4X19",
+    "saldo": 0
+  },
+  {
+    "id": "wj0jgh",
+    "nome": "Armando José ",
+    "telefone": "955454974",
+    "senha": "debora",
+    "codigo_convite": "KKJNLWEW6",
+    "codigo_convite_referido": "JT5NT4X19",
+    "saldo": 0
+  },
+  {
+    "id": "3bo3bs",
+    "nome": "Clementina Segunda",
+    "telefone": "931259476",
+    "senha": "123456",
+    "codigo_convite": "865PFQ9R3",
+    "codigo_convite_referido": "EOYYUYCWI",
+    "saldo": 0
+  },
+  {
+    "id": "6h6i5d",
+    "nome": "Milton Mateus ",
+    "telefone": "928203103",
+    "senha": "mentalista00",
+    "codigo_convite": "9DPVVFX04",
+    "codigo_convite_referido": "JT5NT4X19",
+    "saldo": 0
+  },
+  {
+    "id": "cq10mh",
+    "nome": "Esmeralda Lima",
+    "telefone": "931850741",
+    "senha": "Esmeralda",
+    "codigo_convite": "M464P6XYI",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "vup2k8",
+    "nome": "Augusto Firmino",
+    "telefone": "945354429",
+    "senha": "Augusto",
+    "codigo_convite": "7WFZKHVT8",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "yotr2p",
+    "nome": "Fernando Quiala GONSALVES joaquim",
+    "telefone": "928424481",
+    "senha": "2005amor",
+    "codigo_convite": "7EQJ3W11L",
+    "codigo_convite_referido": "XHKMDBD19",
+    "saldo": 0
+  },
+  {
+    "id": "2gi5cf",
+    "nome": "Fernando Quiala GONSALVES joaquim",
+    "telefone": "928424481",
+    "senha": "2005amor",
+    "codigo_convite": "NYLAEKXKD",
+    "codigo_convite_referido": "XHKMDBD19",
     "saldo": 0
   }],
 
@@ -3278,11 +3782,91 @@
     "data": "2025-05-11T14:02:01.997Z",
     "status": false,
     "id": "LGQKlwY"
+  },
+  {
+    "usuarioId": "yr8waa",
+    "iban": "AO06005500003052679610197",
+    "nome": "Valentim Da Costa Martins ",
+    "valor": 1076.4,
+    "data": "2025-05-12T09:07:11.495Z",
+    "status": true,
+    "id": "YL071u_"
+  },
+  {
+    "usuarioId": "9qtwyd",
+    "iban": "AO06005500004813504610144",
+    "nome": "Inocêncio Tchimbaya Carlos ",
+    "valor": 1352.4,
+    "data": "2025-05-12T09:22:48.877Z",
+    "status": true,
+    "id": "h0xL0aX"
+  },
+  {
+    "usuarioId": "6lhinw",
+    "iban": "AO06004000007472602710110",
+    "nome": "Kialas Wakandiano ",
+    "valor": 248.4,
+    "data": "2025-05-12T09:45:20.963Z",
+    "status": true,
+    "id": "FcInhom"
+  },
+  {
+    "usuarioId": "kklh1c",
+    "iban": "AO06000600002037476930149",
+    "nome": "Zacarias Alberto Samuel Teixeira",
+    "valor": 800.4,
+    "data": "2025-05-12T11:02:40.539Z",
+    "status": true,
+    "id": "LGwHaTX"
+  },
+  {
+    "usuarioId": "h45vyz",
+    "iban": "AO06005500000462955510191",
+    "nome": "Filipe de Oliveira Malinda Dumbi",
+    "valor": 892.4,
+    "data": "2025-05-12T11:50:42.426Z",
+    "status": true,
+    "id": "JfSVxnN"
+  },
+  {
+    "usuarioId": "h45vyz",
+    "iban": "AO06005500000462955510191",
+    "nome": "Filipe de Oliveira Malinda Dumbi",
+    "valor": 64.4,
+    "data": "2025-05-12T11:51:09.071Z",
+    "status": true,
+    "id": "UwojWvd"
+  },
+  {
+    "usuarioId": "s10qxp",
+    "iban": "AO06005500006502782110167",
+    "nome": "Eliseu Jaime ",
+    "valor": 1076.4,
+    "data": "2025-05-12T12:08:06.442Z",
+    "status": true,
+    "id": "KlnCnOP"
+  },
+  {
+    "usuarioId": "ji2xcq",
+    "iban": "AO06000600007903259330134",
+    "nome": "Rafael Henriques Quintas Messalo",
+    "valor": 1720.4,
+    "data": "2025-05-12T13:00:08.523Z",
+    "status": true,
+    "id": "RZngMch"
+  },
+  {
+    "usuarioId": "5icnyq",
+    "iban": "AO06000600002459968430127",
+    "nome": "AUGUSTO PAULINO VANGULA ",
+    "valor": 248.4,
+    "data": "2025-05-12T16:31:09.435Z",
+    "status": false,
+    "id": "FOtZkQa"
   }
   ],
 
-  "depositos": [
-    {
+  "depositos": [{
     "userId": "109rms",
     "produto": "vip1",
     "preco": 5000,
@@ -3387,6 +3971,114 @@
     "prazo": 120,
     "dataCompra": "2025-05-10T21:32:14.785Z",
     "id": 37
+  },
+  {
+    "userId": "e6oo5f",
+    "produto": "vip0",
+    "preco": 1000,
+    "quantidade": 3,
+    "valorTotal": 3000,
+    "renda_diaria": 210,
+    "renda_total": 25200,
+    "prazo": 120,
+    "dataCompra": "2025-05-12T06:00:26.501Z",
+    "id": 38
+  },
+  {
+    "userId": "xrrmm6",
+    "produto": "vip1",
+    "preco": 6000,
+    "quantidade": 1,
+    "valorTotal": 6000,
+    "renda_diaria": 420,
+    "renda_total": 50400,
+    "prazo": 120,
+    "dataCompra": "2025-05-12T06:38:01.683Z",
+    "id": 39
+  },
+  {
+    "userId": "6lhinw",
+    "produto": "vip0",
+    "preco": 1000,
+    "quantidade": 1,
+    "valorTotal": 1000,
+    "renda_diaria": 70,
+    "renda_total": 8400,
+    "prazo": 120,
+    "dataCompra": "2025-05-12T07:20:25.786Z",
+    "id": 40
+  },
+  {
+    "userId": "6lhinw",
+    "produto": "vip0",
+    "preco": 1000,
+    "quantidade": 1,
+    "valorTotal": 1000,
+    "renda_diaria": 70,
+    "renda_total": 8400,
+    "prazo": 120,
+    "dataCompra": "2025-05-12T07:40:33.255Z",
+    "id": 41
+  },
+  {
+    "userId": "jzb6xu",
+    "produto": "vip0",
+    "preco": 1000,
+    "quantidade": 1,
+    "valorTotal": 1000,
+    "renda_diaria": 70,
+    "renda_total": 8400,
+    "prazo": 120,
+    "dataCompra": "2025-05-12T08:53:21.854Z",
+    "id": 42
+  },
+  {
+    "userId": "jzb6xu",
+    "produto": "vip1",
+    "preco": 6000,
+    "quantidade": 1,
+    "valorTotal": 6000,
+    "renda_diaria": 420,
+    "renda_total": 50400,
+    "prazo": 120,
+    "dataCompra": "2025-05-12T08:53:35.474Z",
+    "id": 43
+  },
+  {
+    "userId": "6uvyen",
+    "produto": "vip1",
+    "preco": 6000,
+    "quantidade": 1,
+    "valorTotal": 6000,
+    "renda_diaria": 420,
+    "renda_total": 50400,
+    "prazo": 120,
+    "dataCompra": "2025-05-12T08:55:50.326Z",
+    "id": 44
+  },
+  {
+    "userId": "h45vyz",
+    "produto": "vip2",
+    "preco": 15000,
+    "quantidade": 1,
+    "valorTotal": 15000,
+    "renda_diaria": 1050,
+    "renda_total": 126000,
+    "prazo": 120,
+    "dataCompra": "2025-05-12T08:56:41.342Z",
+    "id": 45
+  },
+  {
+    "userId": "70bw82",
+    "produto": "vip0",
+    "preco": 1000,
+    "quantidade": 1,
+    "valorTotal": 1000,
+    "renda_diaria": 70,
+    "renda_total": 8400,
+    "prazo": 120,
+    "dataCompra": "2025-05-12T15:34:40.943Z",
+    "id": 46
   }
   ],
 
@@ -3669,5 +4361,96 @@
     "iban": "AO06000600003554715630103",
     "userId": "vn151i",
     "id": 40
+  },
+  {
+    "nome_titular": "Serafim Salvador Dos Santos Miguel ",
+    "banco": "ATLANTICO",
+    "iban": "AO06005500003740494310112",
+    "userId": "aoodq2",
+    "id": 41
+  },
+  {
+    "nome_titular": "Pedro Lázaro ",
+    "banco": "BFA",
+    "iban": "AO06000600003154576230162",
+    "userId": "utm29x",
+    "id": 42
+  },
+  {
+    "nome_titular": "Valentim Da Costa Martins ",
+    "banco": "ATLANTICO",
+    "iban": "AO06005500003052679610197",
+    "userId": "yr8waa",
+    "id": 43
+  },
+  {
+    "nome_titular": "Patrícia Zita de Castro",
+    "banco": "BAI",
+    "iban": "AO06004000007201645110167",
+    "userId": "jzb6xu",
+    "id": 44
+  },
+  {
+    "nome_titular": "Patrícia Zita de Castro ",
+    "banco": "BAI",
+    "iban": "AO06004000007201645110167",
+    "userId": "jzb6xu",
+    "id": 45
+  },
+  {
+    "nome_titular": "Kialas Wakandiano ",
+    "banco": "BAI",
+    "iban": "AO06004000007472602710110",
+    "userId": "6lhinw",
+    "id": 46
+  },
+  {
+    "nome_titular": "Guebi Reavida Zanguio ",
+    "banco": "BFA",
+    "iban": "AO06000600001023333530143",
+    "userId": "11ffee",
+    "id": 47
+  },
+  {
+    "nome_titular": "Filipe de Oliveira Malinda Dumbi",
+    "banco": "ATLANTICO",
+    "iban": "AO06005500000462955510191",
+    "userId": "h45vyz",
+    "id": 48
+  },
+  {
+    "nome_titular": "Gabriel Daniel Sambo ",
+    "banco": "BFA",
+    "iban": "AO06000600000125739130188",
+    "userId": "8848fm",
+    "id": 49
+  },
+  {
+    "nome_titular": "Gabriel Daniel Sambo ",
+    "banco": "BFA",
+    "iban": "AO06000600006125739130188",
+    "userId": "8848fm",
+    "id": 50
+  },
+  {
+    "nome_titular": "Francisco Manuel Ernesto",
+    "banco": "BIC",
+    "iban": "AO06005100009358459410130",
+    "userId": "5gjc4i",
+    "id": 51
+  },
+  {
+    "nome_titular": "Romeu Máquina ",
+    "banco": "ATLANTICO",
+    "iban": "AO06005500001523358410114",
+    "userId": "io5c6w",
+    "id": 52
+  },
+  {
+    "nome_titular": "Fernando Quiala Gonçalves Joaquim ",
+    "banco": "BIC",
+    "iban": "AO06005100001065552510131",
+    "userId": "yotr2p",
+    "id": 53
   }]
 }
