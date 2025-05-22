@@ -1,56 +1,12 @@
 {
-  "user": {
-    "id": "5c92te",
-    "nome": "Cesar Eurico",
-    "telefone": "948283512",
-    "senha": "chongolola",
-    "codigo_convite": "gyk2ta566",
-    "codigo_convite_referido": "6yvpbje4k",
-    "saldo": 1400
-  },
-  "produto": {
-    "id": "p1832z",
-    "nome": "Pacote Invest Kwanza",
-    "descricao": "Investimento em Kz com retorno diário",
-    "preco": 500,
-    "lucro_dia": 25,
-    "duracao_dias": 30,
-    "ativo": true
-  },
-  "deposito": {
-    "id": "d932xk",
-    "user_id": "5c92te",
-    "valor": 2000,
-    "data": "2025-05-21T14:30:00Z",
-    "estado": "pendente",
-    "metodo": "IBAN"
-  },
-  "retirada": {
-    "id": "r184lk",
-    "user_id": "5c92te",
-    "valor": 1500,
-    "data": "2025-05-22T10:15:00Z",
-    "estado": "em processamento",
-    "destino": "IBAN"
-  },
-  "iban": {
-    "id": "iban9981",
-    "user_id": "5c92te",
-    "banco": "BAI",
-    "iban": "AO06004400000012345678901",
-    "titular": "Cesar Eurico",
-    "ativo": true
-  },
-  "vip": {
-    "id": "vip729s",
-    "user_id": "5c92te",
-    "nivel": "Gold",
-    "data_inicio": "2025-05-01",
-    "data_fim": "2025-06-01",
-    "beneficios": [
-      "Suporte prioritário",
-      "Bónus diário",
-      "Acesso antecipado a produtos"
-    ]
-  }
+  "user": [
+    {
+      "id": "user1",
+      "nome": "Fulano",
+      "telefone": "912345678",
+      "senha": "123456",
+      "codigo_convite": "ABC123",
+      "saldo": 1000
+    }
+  ]
 }
