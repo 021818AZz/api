@@ -8,5 +8,49 @@
       "codigo_convite": "ABC123",
       "saldo": 1000
     }
+  ],
+  "produto": [
+    {
+      "id": "prod1",
+      "nome": "Produto Exemplo",
+      "descricao": "Descrição do produto",
+      "preco": 100.0,
+      "estoque": 50
+    }
+  ],
+  "deposito": [
+    {
+      "id": "dep1",
+      "usuarioId": "user1",
+      "valor": 500,
+      "data": "2025-05-22T12:00:00Z",
+      "status": "confirmado"
+    }
+  ],
+  "vip": [
+    {
+      "id": "vip1",
+      "usuarioId": "user1",
+      "data_inicio": "2025-05-01",
+      "data_fim": "2025-06-01",
+      "nivel": "premium"
+    }
+  ],
+  "iban": [
+    {
+      "id": "iban1",
+      "usuarioId": "user1",
+      "codigo_iban": "AO06 1234 5678 9012 3456 7890 123",
+      "banco": "Banco Exemplo"
+    }
+  ],
+  "retirada": [
+    {
+      "id": "ret1",
+      "usuarioId": "user1",
+      "valor": 200,
+      "data": "2025-05-20T15:30:00Z",
+      "status": "pendente"
+    }
   ]
 }
