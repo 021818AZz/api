@@ -7,50 +7,101 @@
       "senha": "123456",
       "codigo_convite": "ABC123",
       "saldo": 1000
-    }
+    },
+    
+  {
+    "id": "user1",
+    "nome": "Fulano",
+    "telefone": "912345678",
+    "senha": "123456",
+    "codigo_convite": "ABC123",
+    "saldo": 1000
+  },
+  {
+    "id": "y7d831",
+    "nome": "9ddd",
+    "telefone": "929250135",
+    "senha": "021818",
+    "codigo_convite": "7L7NHCBNT",
+    "codigo_convite_referido": "",
+    "saldo": 1000
+  },
+  {
+    "id": "ofxfdu",
+    "nome": "Adilson Leonardo ",
+    "telefone": "923507397",
+    "senha": "cassule3",
+    "codigo_convite": "RTI5WBJXU",
+    "codigo_convite_referido": "",
+    "saldo": 1000
+  },
+  {
+    "id": "liqa2e",
+    "nome": "Jdkdkd",
+    "telefone": "929250133",
+    "senha": "021818",
+    "codigo_convite": "HJKDTAIZ6",
+    "codigo_convite_referido": "",
+    "saldo": 1000
+  },
+  {
+    "id": "74qf1p",
+    "nome": "Avelina Ngueve Martinho",
+    "telefone": "929606028",
+    "senha": "Avelina",
+    "codigo_convite": "8ZI4IKA11",
+    "codigo_convite_referido": "",
+    "saldo": 1000
+  },
+  {
+    "id": "po6vgb",
+    "nome": "Laplantcha ",
+    "telefone": "923483903",
+    "senha": "Money007",
+    "codigo_convite": "7V9X2NZKT",
+    "codigo_convite_referido": "",
+    "saldo": 1000
+  },
+  {
+    "id": "9pw3xx",
+    "nome": "Paradoxo",
+    "telefone": "941469931",
+    "senha": "941469931",
+    "codigo_convite": "X5RA4NZIX",
+    "codigo_convite_referido": "98HW47Y98",
+    "saldo": 1000
+  },
+  {
+    "id": "726ff8",
+    "nome": "Joaquim Cassoma ",
+    "telefone": "924492187",
+    "senha": "337733",
+    "codigo_convite": "F4J9S68XB",
+    "codigo_convite_referido": "I04T550BL",
+    "saldo": 1000
+  },
+  {
+    "id": "q3gr1a",
+    "nome": "Fdddd",
+    "telefone": "929250101",
+    "senha": "021818",
+    "codigo_convite": "C8X60XW2V",
+    "codigo_convite_referido": "",
+    "saldo": 1000
+  },
+  {
+    "id": "n1a6ws",
+    "nome": "Jefferson Williams ",
+    "telefone": "947302727",
+    "senha": "Dario19",
+    "codigo_convite": "TS6I7GXZT",
+    "codigo_convite_referido": "6egtmifeo",
+    "saldo": 1000
+  }
   ],
-  "produto": [
-    {
-      "id": "prod1",
-      "nome": "Produto Exemplo",
-      "descricao": "Descrição do produto",
-      "preco": 100.0,
-      "estoque": 50
-    }
-  ],
-  "deposito": [
-    {
-      "id": "dep1",
-      "usuarioId": "user1",
-      "valor": 500,
-      "data": "2025-05-22T12:00:00Z",
-      "status": "confirmado"
-    }
-  ],
-  "vip": [
-    {
-      "id": "vip1",
-      "usuarioId": "user1",
-      "data_inicio": "2025-05-01",
-      "data_fim": "2025-06-01",
-      "nivel": "premium"
-    }
-  ],
-  "iban": [
-    {
-      "id": "iban1",
-      "usuarioId": "user1",
-      "codigo_iban": "AO06 1234 5678 9012 3456 7890 123",
-      "banco": "Banco Exemplo"
-    }
-  ],
-  "retirada": [
-    {
-      "id": "ret1",
-      "usuarioId": "user1",
-      "valor": 200,
-      "data": "2025-05-20T15:30:00Z",
-      "status": "pendente"
-    }
-  ]
+  "produto": [],
+  "deposito": [],
+  "vip": [],
+  "iban": [],
+  "retirada": []
 }
