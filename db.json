@@ -1,5 +1,6 @@
 {
-  "user": [ {
+  "user": [
+  {
     "id": "7j6akxz26",
     "telefone": "923740513",
     "senha": "523212",
@@ -147,7 +148,7 @@
     "codigo_convite_referido": "",
     "nivel2": "",
     "nivel3": "",
-    "saldo": 0
+    "saldo": 2
   },
   {
     "id": "r77jizqku",
@@ -527,7 +528,7 @@
     "codigo_convite_referido": "",
     "nivel2": "",
     "nivel3": "",
-    "saldo": 1900
+    "saldo": 11400
   },
   {
     "id": "f9owghvpw",
@@ -1158,7 +1159,184 @@
     "nivel2": "IWJXSF7K",
     "nivel3": "",
     "saldo": 0
-  }],
+  },
+  {
+    "id": "92px2n",
+    "nome": "Ak Ecnirp",
+    "telefone": "924494656",
+    "senha": "ponglee27",
+    "codigo_convite": "2E0XITNLD",
+    "codigo_convite_referido": "TS6I7GXZT",
+    "saldo": 1000
+  },
+  {
+    "id": "citywe",
+    "nome": "Ak Ecnirp",
+    "telefone": "946561328",
+    "senha": "ponglee27",
+    "codigo_convite": "GZVRZZDWY",
+    "codigo_convite_referido": "TS6I7GXZT",
+    "saldo": 1000
+  },
+  {
+    "id": "vv54oythq",
+    "telefone": "922047614",
+    "senha": "Adriano",
+    "codigo_convite": "1PD7555H",
+    "codigo_convite_referido": "QNKWWTAW",
+    "nivel2": "Y7HJCY8C",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "9l8jeak5i",
+    "telefone": "912727826",
+    "senha": "Todo,.meu9384",
+    "codigo_convite": "8GVVQTLG",
+    "codigo_convite_referido": "NFREZDO3",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "oapc1neow",
+    "telefone": "923359003",
+    "senha": "Todo,.meu9",
+    "codigo_convite": "0GEKWYFT",
+    "codigo_convite_referido": "NFREZDO3",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "y4ielq110",
+    "telefone": "900000000",
+    "senha": "021818",
+    "codigo_convite": "6ORA9ZTA",
+    "codigo_convite_referido": "",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "z93m78sm2",
+    "telefone": "944635232",
+    "senha": "moreno",
+    "codigo_convite": "EPDCCFOP",
+    "codigo_convite_referido": "SV8EZXMS",
+    "nivel2": "YHJ931AR",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "fsh9rmqpn",
+    "telefone": "956999604",
+    "senha": "Giovani007",
+    "codigo_convite": "4VQII0QL",
+    "codigo_convite_referido": "5443468K",
+    "nivel2": "BRJKBP71",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "6xkgjjzjc",
+    "telefone": "923691186",
+    "senha": "523212",
+    "codigo_convite": "Q60HZQN5",
+    "codigo_convite_referido": "QRC49S6J",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "qh8qd3fev",
+    "telefone": "945513400",
+    "senha": "Blackmusic",
+    "codigo_convite": "OSQHHBM2",
+    "codigo_convite_referido": "",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "43h90cq5t",
+    "telefone": "927145905",
+    "senha": "198888",
+    "codigo_convite": "T57108RQ",
+    "codigo_convite_referido": "YHJ931AR",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "e26w14ggv",
+    "telefone": "929250136",
+    "senha": "000000",
+    "codigo_convite": "0N4UZ3Z6",
+    "codigo_convite_referido": "",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "wj0it0cga",
+    "telefone": "953149322",
+    "senha": "Isabel",
+    "codigo_convite": "XQFFVASV",
+    "codigo_convite_referido": "QNKWWTAW",
+    "nivel2": "Y7HJCY8C",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "userId": "t9tmg7u3b",
+    "name": "Domingos Mazanga Ginga",
+    "bankCode": "BIC",
+    "account": "005100005052682310147",
+    "withdrawChannel": "nismopay",
+    "id": 1
+  },
+  {
+    "userId": "bsoqstvd8",
+    "name": "Edson do Rosário Burquim Ndala",
+    "bankCode": "BAI",
+    "account": "004000008069705810124",
+    "withdrawChannel": "nismopay",
+    "id": 2
+  },
+  {
+    "userId": "bsoqstvd8",
+    "name": "Edson do Rosário Burquim Ndala",
+    "bankCode": "BAI",
+    "account": "004000008069705810124",
+    "withdrawChannel": "nismopay",
+    "id": 3
+  },
+  {
+    "userId": "vn5cx5tc8",
+    "name": "Carlos Pascoal Moandjambi",
+    "bankCode": "BFA",
+    "account": "000600000403216230111",
+    "withdrawChannel": "nismopay",
+    "id": 4
+  },
+  {
+    "userId": "odaws0ey1",
+    "name": "David Ebo Domingos",
+    "bankCode": "BFA",
+    "account": "000600009398559630104",
+    "withdrawChannel": "nismopay",
+    "id": 5
+  },
+  {
+    "userId": "z93m78sm2",
+    "name": "Marques Daniel Brinco Chico",
+    "bankCode": "BFA",
+    "account": "000600009662841830115",
+    "withdrawChannel": "nismopay",
+    "id": 6
+  }
+],
   "deposito": [],
   "produto": [ {
     "userId": "7s5vqykf9",
@@ -1230,16 +1408,7 @@
     "dataCompra": "2025-06-07T09:04:05.799Z",
     "id": "1749287045800"
   },
-  {
-    "userId": "vn5cx5tc8",
-    "produto": "Binance",
-    "preco": 9500,
-    "renda_diaria": 1900,
-    "renda_total": 19000,
-    "prazo": 10,
-    "dataCompra": "2025-06-07T11:26:35.321Z",
-    "id": "1749295595349"
-  },
+ 
   {
     "userId": "3ha61l3gg",
     "produto": "Binance",
@@ -1289,8 +1458,19 @@
     "prazo": 10,
     "dataCompra": "2025-06-07T12:58:59.794Z",
     "id": "1749301139794"
+  },
+    {
+    "userId": "vn5cx5tc8",
+    "produto": "Binance",
+    "preco": 9500,
+    "renda_diaria": 1900,
+    "renda_total": 19000,
+    "prazo": 10,
+    "dataCompra": "2025-06-07T11:26:35.321Z",
+    "id": "1749295595349"
   }],
-  "iban": [{{
+  "iban": [
+  {
     "userId": "t9tmg7u3b",
     "name": "Domingos Mazanga Ginga",
     "bankCode": "BIC",
@@ -1329,6 +1509,15 @@
     "account": "000600009398559630104",
     "withdrawChannel": "nismopay",
     "id": 5
-  }],
+  },
+  {
+    "userId": "z93m78sm2",
+    "name": "Marques Daniel Brinco Chico",
+    "bankCode": "BFA",
+    "account": "000600009662841830115",
+    "withdrawChannel": "nismopay",
+    "id": 6
+  }
+],
   "retirada": []
 }
