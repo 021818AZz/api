@@ -1,5 +1,5 @@
 {
-  "user": [{
+  "user": [ {
     "id": "7j6akxz26",
     "telefone": "923740513",
     "senha": "523212",
@@ -115,16 +115,6 @@
     "senha": "23456789",
     "codigo_convite": "7MCF5KPC",
     "codigo_convite_referido": "DFU077D5",
-    "nivel2": "",
-    "nivel3": "",
-    "saldo": 0
-  },
-  {
-    "id": "3ha61l3gg",
-    "telefone": "921297448",
-    "senha": "Galante",
-    "codigo_convite": "YHJ931AR",
-    "codigo_convite_referido": "G7OCPUQX",
     "nivel2": "",
     "nivel3": "",
     "saldo": 0
@@ -329,7 +319,7 @@
     "nivel3": "",
     "saldo": 0
   },
-   {
+  {
     "id": "7s5vqykf9",
     "telefone": "941612691",
     "senha": "Kissonde",
@@ -338,139 +328,218 @@
     "nivel2": "",
     "nivel3": "",
     "saldo": 0
+  },
+  {
+    "id": "s48t2l68i",
+    "telefone": "924903106",
+    "senha": "meus filhos",
+    "codigo_convite": "QNKWWTAW",
+    "codigo_convite_referido": "Y7HJCY8C",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "4wlvrsdf5",
+    "telefone": "929847506",
+    "senha": "121212",
+    "codigo_convite": "3ROCYY3R",
+    "codigo_convite_referido": "KW9LTGMJ",
+    "nivel2": "IWJXSF7K",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "76hv94j9e",
+    "telefone": "929847506",
+    "senha": "121212",
+    "codigo_convite": "DB32EJRY",
+    "codigo_convite_referido": "KW9LTGMJ",
+    "nivel2": "IWJXSF7K",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "64jq1q2fk",
+    "telefone": "929847506",
+    "senha": "121212",
+    "codigo_convite": "CN4R81H9",
+    "codigo_convite_referido": "KW9LTGMJ",
+    "nivel2": "IWJXSF7K",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "ideiycrwn",
+    "telefone": "929847506",
+    "senha": "121212",
+    "codigo_convite": "FOMIM157",
+    "codigo_convite_referido": "KW9LTGMJ",
+    "nivel2": "IWJXSF7K",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "p5ij21rwg",
+    "telefone": "973888940",
+    "senha": "123456",
+    "codigo_convite": "9AXIDYI2",
+    "codigo_convite_referido": "WLFYRQDA",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "807raslh0",
+    "telefone": "933038700",
+    "senha": "121212",
+    "codigo_convite": "G55J52H1",
+    "codigo_convite_referido": "KW9LTGMJ",
+    "nivel2": "IWJXSF7K",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "g201kdgzw",
+    "telefone": "921297448",
+    "senha": "Galante",
+    "codigo_convite": "LOBFRL1V",
+    "codigo_convite_referido": "",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 5900
+  },
+  {
+    "id": "nm9zaliu0",
+    "telefone": "975065395",
+    "senha": "Amopai2008",
+    "codigo_convite": "RY9ZMONR",
+    "codigo_convite_referido": "8OX0F59I",
+    "nivel2": "IWJXSF7K",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "owir8s0qx",
+    "telefone": "949048911",
+    "senha": "123456",
+    "codigo_convite": "W6F2EXWA",
+    "codigo_convite_referido": "MGLKLZVR",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "gt5zf9xnz",
+    "telefone": "956910055",
+    "senha": "Angola",
+    "codigo_convite": "HOQXT648",
+    "codigo_convite_referido": "MGLKLZVR",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "64iuazvf3",
+    "telefone": "928488638",
+    "senha": "timeuulicA",
+    "codigo_convite": "4YVPXGYY",
+    "codigo_convite_referido": "8OX0F59I",
+    "nivel2": "IWJXSF7K",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "up3tfh2w2",
+    "telefone": "938642119",
+    "senha": "Zecabunga",
+    "codigo_convite": "BI47DNH5",
+    "codigo_convite_referido": "",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "9oai8orpk",
+    "telefone": "974496377",
+    "senha": "pedivaldo",
+    "codigo_convite": "KF7Q4XU2",
+    "codigo_convite_referido": "KVAI6WG6",
+    "nivel2": "Q07PAAIA",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "k0vx09v2t",
+    "telefone": "949001564",
+    "senha": "Paul1991",
+    "codigo_convite": "HDOVDH95",
+    "codigo_convite_referido": "XDA4VAE9",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
+  },
+  {
+    "id": "n7ndjy0yt",
+    "telefone": "926908645",
+    "senha": "926584",
+    "codigo_convite": "5443468K",
+    "codigo_convite_referido": "BRJKBP71",
+    "nivel2": "",
+    "nivel3": "",
+    "saldo": 0
   }],
   "deposito": [],
-  "produto": [],
+  "produto": [{
+    "userId": "7s5vqykf9",
+    "produto": "Binance",
+    "preco": 9500,
+    "renda_diaria": 1900,
+    "renda_total": 19000,
+    "prazo": 10,
+    "dataCompra": "2025-06-07T07:58:14.864Z",
+    "id": "1749283094874"
+  },
+  {
+    "userId": "3ha61l3gg",
+    "produto": "Binance",
+    "preco": 9500,
+    "renda_diaria": 1900,
+    "renda_total": 19000,
+    "prazo": 10,
+    "dataCompra": "2025-06-07T08:03:47.510Z",
+    "id": "1749283427518"
+  },
+  {
+    "userId": "7j6akxz26",
+    "produto": "OKX",
+    "preco": 28500,
+    "renda_diaria": 2850,
+    "renda_total": 57000,
+    "prazo": 20,
+    "dataCompra": "2025-06-07T08:15:21.015Z",
+    "id": "1749284121025"
+  },
+  {
+    "userId": "uhcoisiyy",
+    "produto": "OKX",
+    "preco": 28500,
+    "renda_diaria": 2850,
+    "renda_total": 57000,
+    "prazo": 20,
+    "dataCompra": "2025-06-07T08:16:11.934Z",
+    "id": "1749284171940"
+  },
+  {
+    "userId": "s48t2l68i",
+    "produto": "Binance",
+    "preco": 9500,
+    "renda_diaria": 1900,
+    "renda_total": 19000,
+    "prazo": 10,
+    "dataCompra": "2025-06-07T08:38:41.762Z",
+    "id": "1749285521764"
+  }],
   "iban": [],
-  "retirada": [{
-    "userId": "dt29x2ol3",
-    "name": "JobCupanguela",
-    "account": "000600006713115230146",
-    "amount": 1400,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T08:11:42.200Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": true,
-    "processed": true,
-    "id": 1
-  },
-  {
-    "userId": "x43fwtgmu",
-    "name": "Hilário dos Santos",
-    "account": "0040 0000 01795176101 97",
-    "amount": 4600,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T08:12:27.860Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": true,
-    "processed": true,
-    "id": 2
-  },
-  {
-    "userId": "x85hzku4w",
-    "name": "Adilson Franco Nogueira",
-    "account": "000600002131127430133",
-    "amount": 1500,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T08:24:03.830Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": true,
-    "processed": true,
-    "id": 3
-  },
-  {
-    "userId": "x43fwtgmu",
-    "name": "Hilário dos Santos",
-    "account": "0040 0000 01795176101 97",
-    "amount": 4650,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T09:52:40.212Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": true,
-    "processed": true,
-    "id": 4
-  },
-  {
-    "userId": "gxitfewza",
-    "name": "Vania Pereira",
-    "account": "AO06000600002033476830181",
-    "amount": 20000,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T09:52:54.537Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": false,
-    "processed": true,
-    "id": 5,
-    "rejectionReason": "deve fazer a compra do produto"
-  },
-  {
-    "userId": "dt29x2ol3",
-    "name": "JobCupanguela",
-    "account": "000600006713115230146",
-    "amount": 5100,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T10:03:01.430Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": true,
-    "processed": true,
-    "id": 6
-  },
-  {
-    "userId": "iagrb9asj",
-    "name": "Pedro Viana Vieira",
-    "account": "000600002791891930168",
-    "amount": 2050,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T11:16:14.549Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": true,
-    "processed": true,
-    "id": 7
-  },
-  {
-    "userId": "sf8o42mzu",
-    "name": "Leonel Ricardo Malungo Luciano",
-    "account": "0006 0000 59073337301 65",
-    "amount": 2590,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T12:38:12.590Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": true,
-    "processed": true,
-    "id": 8
-  },
-  {
-    "userId": "x85hzku4w",
-    "name": "Adilson franco Nogueira",
-    "account": "000600002131127430133",
-    "amount": 2500,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T13:33:54.834Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": true,
-    "processed": true,
-    "id": 9
-  },
-  {
-    "userId": "sf8o42mzu",
-    "name": "LEONEL RICARDO MALUNGO",
-    "account": "0006 0000 59073337301 65",
-    "amount": 1500,
-    "status": "pending",
-    "withdrawalTime": "2025-05-30T13:42:51.560Z",
-    "isWithdrawal": true,
-    "isDeposit": false,
-    "approved": true,
-    "processed": true,
-    "id": 10
-  }]
+  "retirada": []
 }
