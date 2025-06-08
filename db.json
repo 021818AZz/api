@@ -1365,6 +1365,15 @@
       "nivel2": "IWJXSF7K",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": "nrxfqj",
+      "nome": "Luís Estevão Natália ",
+      "telefone": "973098653",
+      "senha": "12345678",
+      "codigo_convite": "ZGEU2IWNI",
+      "codigo_convite_referido": "URI6OFKLL",
+      "saldo": 1000
     }
   ],
   "deposito": [],
@@ -1569,6 +1578,14 @@
       "account": "000600009662841830115",
       "withdrawChannel": "nismopay",
       "id": 6
+    },
+    {
+      "userId": "ok7r84w8s",
+      "name": "Constantino Gabriel jaime",
+      "bankCode": "BAI",
+      "account": "000000000000000000000",
+      "withdrawChannel": "nismopay",
+      "id": 7
     }
   ]
 }
