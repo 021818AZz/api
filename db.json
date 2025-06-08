@@ -1484,6 +1484,16 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": "9klzmu871",
+      "telefone": "931284613",
+      "senha": "04012018",
+      "codigo_convite": "HXQQ8EKA",
+      "codigo_convite_referido": "H6Q4YZ8L",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
     }
   ],
   "deposito": [
@@ -1805,6 +1815,14 @@
       "account": "005100004780637210127",
       "withdrawChannel": "nismopay",
       "id": 9
+    },
+    {
+      "userId": "t9tmg7u3b",
+      "name": "Domingos Mazanga Ginga",
+      "bankCode": "BIC",
+      "account": "005100005052682310147",
+      "withdrawChannel": "nismopay",
+      "id": 10
     }
   ]
 }
