@@ -39,6 +39,26 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": 35410906,
+      "telefone": "939502924",
+      "senha": "123456",
+      "codigo_convite": "21677791",
+      "codigo_convite_referido": "89696858",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 50360800,
+      "telefone": "941328403",
+      "senha": "123456",
+      "codigo_convite": "64905717",
+      "codigo_convite_referido": "89696858",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
     }
   ],
   "deposito": [],
