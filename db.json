@@ -8,7 +8,7 @@
       "codigo_convite_referido": "9a580f55",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 5808
+      "saldo": 5958
     },
     {
       "id": 33089535,
@@ -38,7 +38,7 @@
       "codigo_convite_referido": "77015601",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 54
+      "saldo": 354
     },
     {
       "id": 35410906,
@@ -58,7 +58,7 @@
       "codigo_convite_referido": "89696858",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 2040
+      "saldo": 5040
     },
     {
       "id": 81265975,
@@ -1198,7 +1198,7 @@
       "codigo_convite_referido": "64905717",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 0
+      "saldo": 15000
     },
     {
       "id": 14073188,
@@ -1316,6 +1316,546 @@
       "senha": "000444",
       "codigo_convite": "70090030",
       "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 11929096,
+      "telefone": "943224330",
+      "senha": "000055",
+      "codigo_convite": "50963156",
+      "codigo_convite_referido": "89696858",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 39802454,
+      "telefone": "937725818",
+      "senha": "972013121",
+      "codigo_convite": "19489660",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 13309044,
+      "telefone": "944246914",
+      "senha": "Lucrecia",
+      "codigo_convite": "94258612",
+      "codigo_convite_referido": "84380202",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 79303300,
+      "telefone": "926814162",
+      "senha": "926814162",
+      "codigo_convite": "40796711",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 75212305,
+      "telefone": "930384238",
+      "senha": "930384238",
+      "codigo_convite": "15211676",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 35261025,
+      "telefone": "928900971",
+      "senha": "928900971",
+      "codigo_convite": "31091582",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 58986986,
+      "telefone": "926544630",
+      "senha": "926544630",
+      "codigo_convite": "78455295",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 97296673,
+      "telefone": "925757015",
+      "senha": "925757015",
+      "codigo_convite": "54658214",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 61581500,
+      "telefone": "933568502",
+      "senha": "933568502",
+      "codigo_convite": "80639803",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 79062813,
+      "telefone": "938641418",
+      "senha": "938641418",
+      "codigo_convite": "80589879",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 99912901,
+      "telefone": "943259602",
+      "senha": "943259602",
+      "codigo_convite": "35853105",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 85175312,
+      "telefone": "943259600",
+      "senha": "943259602",
+      "codigo_convite": "82351996",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 23845155,
+      "telefone": "943259601",
+      "senha": "943259602",
+      "codigo_convite": "21723615",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 51644358,
+      "telefone": "945783553",
+      "senha": "943259602",
+      "codigo_convite": "58906100",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 78189545,
+      "telefone": "945259602",
+      "senha": "943259602",
+      "codigo_convite": "35384480",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 15361050,
+      "telefone": "943259620",
+      "senha": "943259602",
+      "codigo_convite": "29072376",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 20957142,
+      "telefone": "942259602",
+      "senha": "943259602",
+      "codigo_convite": "61380198",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 85249829,
+      "telefone": "941283552",
+      "senha": "943259602",
+      "codigo_convite": "64563441",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 37903340,
+      "telefone": "941783110",
+      "senha": "943259602",
+      "codigo_convite": "26148248",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 69313989,
+      "telefone": "954344721",
+      "senha": "77665544jS@",
+      "codigo_convite": "35695554",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 85591266,
+      "telefone": "949847266",
+      "senha": "949847266",
+      "codigo_convite": "76793759",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 67044599,
+      "telefone": "942337410",
+      "senha": "943259602",
+      "codigo_convite": "23833918",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 61108329,
+      "telefone": "947158750",
+      "senha": "943259602",
+      "codigo_convite": "87616072",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 29404285,
+      "telefone": "932185632",
+      "senha": "943259602",
+      "codigo_convite": "68096187",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 10603209,
+      "telefone": "921601923",
+      "senha": "943259602",
+      "codigo_convite": "34035960",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 63847585,
+      "telefone": "923156579",
+      "senha": "943259602",
+      "codigo_convite": "92265465",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 39537863,
+      "telefone": "945600452",
+      "senha": "945600452",
+      "codigo_convite": "56815641",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 65970540,
+      "telefone": "945600447",
+      "senha": "945600452",
+      "codigo_convite": "23038201",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 37346235,
+      "telefone": "942417815",
+      "senha": "124533",
+      "codigo_convite": "46411022",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 46607905,
+      "telefone": "942417815",
+      "senha": "124533",
+      "codigo_convite": "32312246",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 35646596,
+      "telefone": "942417815",
+      "senha": "124533",
+      "codigo_convite": "94950970",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 74332257,
+      "telefone": "942417815",
+      "senha": "124533",
+      "codigo_convite": "23829324",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 54506196,
+      "telefone": "942417815",
+      "senha": "124533",
+      "codigo_convite": "44740048",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 11309191,
+      "telefone": "942417815",
+      "senha": "124533",
+      "codigo_convite": "17716251",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 63004233,
+      "telefone": "942417815",
+      "senha": "124533",
+      "codigo_convite": "34133136",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 38331496,
+      "telefone": "945610452",
+      "senha": "945600452",
+      "codigo_convite": "57193063",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 33928165,
+      "telefone": "945620452",
+      "senha": "945600452",
+      "codigo_convite": "53257809",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 68580209,
+      "telefone": "945630452",
+      "senha": "945630452",
+      "codigo_convite": "51275635",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 10864320,
+      "telefone": "945640452",
+      "senha": "945630452",
+      "codigo_convite": "75805151",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 98057083,
+      "telefone": "945635052",
+      "senha": "945630452",
+      "codigo_convite": "38892822",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 44500611,
+      "telefone": "867608642",
+      "senha": "airelas2006",
+      "codigo_convite": "69696825",
+      "codigo_convite_referido": "84380202",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 83232925,
+      "telefone": "867608642",
+      "senha": "airelas2006",
+      "codigo_convite": "19433221",
+      "codigo_convite_referido": "84380202",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 46384571,
+      "telefone": "945630460",
+      "senha": "945630452",
+      "codigo_convite": "77968992",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 87491266,
+      "telefone": "941030452",
+      "senha": "945630452",
+      "codigo_convite": "57547240",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 43043048,
+      "telefone": "945630490",
+      "senha": "945630452",
+      "codigo_convite": "78950554",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 79487089,
+      "telefone": "945650452",
+      "senha": "945630452",
+      "codigo_convite": "77819350",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 83150794,
+      "telefone": "945630470",
+      "senha": "945630452",
+      "codigo_convite": "38372401",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 44803570,
+      "telefone": "932630452",
+      "senha": "945630452",
+      "codigo_convite": "91282077",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 41402122,
+      "telefone": "945630477",
+      "senha": "945630452",
+      "codigo_convite": "99585634",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 51892011,
+      "telefone": "941903553",
+      "senha": "945630452",
+      "codigo_convite": "14373123",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 26115317,
+      "telefone": "941783783",
+      "senha": "945630452",
+      "codigo_convite": "91465563",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 69550689,
+      "telefone": "941743553",
+      "senha": "945630452",
+      "codigo_convite": "88285704",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 65293974,
+      "telefone": "941703580",
+      "senha": "945630452",
+      "codigo_convite": "87641905",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 76150287,
+      "telefone": "957171864",
+      "senha": "212208",
+      "codigo_convite": "30191063",
+      "codigo_convite_referido": "26672713",
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
@@ -1632,6 +2172,14 @@
       "description": "Depósito via BFA",
       "timestamp": "2025-06-14T18:47:47.561Z",
       "id": 12
+    },
+    {
+      "user_id": 44333010,
+      "type": "deposito",
+      "amount": "+15000",
+      "description": "Depósito via ATL",
+      "timestamp": "2025-06-14T19:17:38.133Z",
+      "id": 13
     }
   ]
 }
