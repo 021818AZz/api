@@ -108,7 +108,7 @@
       "codigo_convite_referido": "26672713",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 3240
+      "saldo": 810
     },
     {
       "id": 28172587,
@@ -809,6 +809,86 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": 74372038,
+      "telefone": "941641646",
+      "senha": "123456",
+      "codigo_convite": "71147164",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 34018233,
+      "telefone": "927989328",
+      "senha": "Massiano",
+      "codigo_convite": "14871365",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 10192876,
+      "telefone": "956504324",
+      "senha": "123456",
+      "codigo_convite": "96438362",
+      "codigo_convite_referido": "87629789",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 71273670,
+      "telefone": "926763306",
+      "senha": "678950",
+      "codigo_convite": "92252312",
+      "codigo_convite_referido": "26672713",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 64899032,
+      "telefone": "924020201",
+      "senha": "123456",
+      "codigo_convite": "93920623",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 55055148,
+      "telefone": "926162300",
+      "senha": "Fatimaney2011",
+      "codigo_convite": "20727480",
+      "codigo_convite_referido": "48706682",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 92171405,
+      "telefone": "975558541",
+      "senha": "darivana",
+      "codigo_convite": "29152560",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 69562175,
+      "telefone": "975558541",
+      "senha": "darivana",
+      "codigo_convite": "46116713",
+      "codigo_convite_referido": "33879835",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
     }
   ],
   "deposito": [],
@@ -878,6 +958,17 @@
       "dataCompra": "2025-06-14T15:31:55.969Z",
       "id": 6,
       "lastCollection": "2025-06-14T15:32:31.752Z"
+    },
+    {
+      "userId": "71959077",
+      "produto": "fanucss-1",
+      "preco": 2700,
+      "renda_diaria": 270,
+      "renda_total": 24300,
+      "prazo": 90,
+      "dataCompra": "2025-06-14T16:25:24.244Z",
+      "id": 7,
+      "lastCollection": "2025-06-14T16:28:47.705Z"
     }
   ],
   "retirada": [
@@ -994,8 +1085,8 @@
     }
   ],
   "cheq": [],
-  "depositos": [],
   "vip": [],
+  "depositos": [],
   "historico": [
     {
       "user_id": 16681148,
@@ -1044,6 +1135,22 @@
       "description": "Saque para BAI - 222222222222222222222",
       "createdAt": "2025-06-14T15:53:50.594Z",
       "id": 6
+    },
+    {
+      "user_id": 24241278,
+      "type": "deposito",
+      "amount": "+2",
+      "description": "Depósito via ATL",
+      "timestamp": "2025-06-14T16:15:26.422Z",
+      "id": 7
+    },
+    {
+      "user_id": 24241278,
+      "type": "deposito",
+      "amount": "+555",
+      "description": "Depósito via ATL",
+      "timestamp": "2025-06-14T16:18:17.825Z",
+      "id": 8
     }
   ]
 }
