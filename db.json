@@ -1,11 +1,51 @@
 {
-  "user": [],
-  "produto": [],
+  "user": [
+    {
+      "id": 84434687,
+      "telefone": "929250135",
+      "senha": "021818",
+      "codigo_convite": "77015601",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 33089535,
+      "telefone": "929250130",
+      "senha": "000000",
+      "codigo_convite": "20988936",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 22948970,
+      "telefone": "929250138",
+      "senha": "021818",
+      "codigo_convite": "47806352",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 41148556,
+      "telefone": "928001734",
+      "senha": "123456",
+      "codigo_convite": "89696858",
+      "codigo_convite_referido": "77015601",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    }
+  ],
   "deposito": [],
+  "produto": [],
+  "retirada": [],
   "iban": [],
   "cheq": [],
   "vip": [],
-  "retirada": [],
-  "historico": [],
-  "voucher": []
+  "historico": []
 }
