@@ -779,6 +779,16 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": 17605522,
+      "telefone": "941364563",
+      "senha": "warrior",
+      "codigo_convite": "46238639",
+      "codigo_convite_referido": "89696858",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
     }
   ],
   "deposito": [],
@@ -964,7 +974,8 @@
     }
   ],
   "cheq": [],
-  "vipi": [],
+  "depositos": [],
+  "vip": [],
   "historico": [
     {
       "user_id": 16681148,
