@@ -5048,6 +5048,66 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": 91186435,
+      "telefone": "987543215",
+      "senha": "123456",
+      "codigo_convite": "98630636",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 80997047,
+      "telefone": "921104279",
+      "senha": "01022006",
+      "codigo_convite": "45943987",
+      "codigo_convite_referido": "50617696",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 14777986,
+      "telefone": "900754321",
+      "senha": "123456",
+      "codigo_convite": "39704040",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 92665404,
+      "telefone": "988543215",
+      "senha": "123456",
+      "codigo_convite": "14694371",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 22617664,
+      "telefone": "933333333",
+      "senha": "123456",
+      "codigo_convite": "39407245",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 42625781,
+      "telefone": "966666999",
+      "senha": "123456",
+      "codigo_convite": "98943856",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
     }
   ],
   "deposito": [],
@@ -5585,7 +5645,7 @@
   ],
   "cheq": [],
   "vip": [],
-  "depositos": [],
+    "depositos": [],
   "historico": [
     {
       "user_id": 16681148,
