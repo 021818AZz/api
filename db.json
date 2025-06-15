@@ -1978,7 +1978,7 @@
       "codigo_convite_referido": "33879835",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 0
+      "saldo": 1500
     },
     {
       "id": 92528578,
@@ -3711,7 +3711,8 @@
       "renda_total": 135000,
       "prazo": 90,
       "dataCompra": "2025-06-14T21:07:00.825Z",
-      "id": 13
+      "id": 13,
+      "lastCollection": "2025-06-15T08:01:32.350Z"
     },
     {
       "userId": "11688897",
