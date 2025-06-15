@@ -4950,18 +4950,67 @@
       "saldo": 0
     },
     {
-  "id": 24013464,
-  "telefone": "973045985",
-  "senha": "Meu@iphone2022.",
-  "codigo_convite": "73383929",
-  "codigo_convite_referido": "50846520",
-  "nivel2": "",
-  "nivel3": "",
-  "saldo": 0
-}
+      "id": 24013464,
+      "telefone": "973045985",
+      "senha": "Meu@iphone2022.",
+      "codigo_convite": "73383929",
+      "codigo_convite_referido": "50846520",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 29651555,
+      "telefone": "931485135",
+      "senha": "123456",
+      "codigo_convite": "11500649",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 58729478,
+      "telefone": "931485135",
+      "senha": "123456",
+      "codigo_convite": "22211111",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 77604105,
+      "telefone": "975845321",
+      "senha": "123456",
+      "codigo_convite": "64278477",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 77016927,
+      "telefone": "975845321",
+      "senha": "123456",
+      "codigo_convite": "23399345",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 25233304,
+      "telefone": "987456123",
+      "senha": "123456",
+      "codigo_convite": "78277372",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    }
   ],
   "deposito": [],
-  "depositos": [],
   "produto": [
     {
       "userId": "50360800",
@@ -5496,6 +5545,7 @@
   ],
   "cheq": [],
   "vip": [],
+  "depositos": [],
   "historico": [
     {
       "user_id": 16681148,
