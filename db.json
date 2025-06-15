@@ -68,7 +68,7 @@
       "codigo_convite_referido": "77015601",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 1095
+      "saldo": 1365
     },
     {
       "id": 13369197,
@@ -3588,10 +3588,29 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": 16210097,
+      "telefone": "957291468",
+      "senha": "909414",
+      "codigo_convite": "90483498",
+      "codigo_convite_referido": "49877288",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 79026230,
+      "telefone": "957291468",
+      "senha": "909414",
+      "codigo_convite": "52789309",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
     }
   ],
   "deposito": [],
-    "depositos": [],
   "produto": [
     {
       "userId": "50360800",
@@ -3613,7 +3632,7 @@
       "prazo": 90,
       "dataCompra": "2025-06-14T13:37:11.181Z",
       "id": 2,
-      "lastCollection": "2025-06-14T13:38:07.185Z"
+      "lastCollection": "2025-06-15T08:06:30.964Z"
     },
     {
       "userId": "18531091",
@@ -3974,6 +3993,7 @@
   ],
   "cheq": [],
   "vip": [],
+  "depositos": [],
   "historico": [
     {
       "user_id": 16681148,
