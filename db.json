@@ -4918,10 +4918,29 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": 65100395,
+      "telefone": "931919151",
+      "senha": "123456",
+      "codigo_convite": "98474432",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 45168215,
+      "telefone": "949696920",
+      "senha": "123456",
+      "codigo_convite": "80122675",
+      "codigo_convite_referido": "49677531",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
     }
   ],
   "deposito": [],
-    "depositos": [],
   "produto": [
     {
       "userId": "50360800",
@@ -5456,6 +5475,7 @@
   ],
   "cheq": [],
   "vip": [],
+  "depositos": [],
   "historico": [
     {
       "user_id": 16681148,
