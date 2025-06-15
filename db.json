@@ -458,7 +458,7 @@
       "codigo_convite_referido": "66757547",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 3300
+      "saldo": 3327
     },
     {
       "id": 47732368,
@@ -768,7 +768,7 @@
       "codigo_convite_referido": "84380202",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 3000
+      "saldo": 3054
     },
     {
       "id": 84612797,
@@ -1528,7 +1528,7 @@
       "codigo_convite_referido": "33879835",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 0
+      "saldo": 540
     },
     {
       "id": 67044599,
@@ -4857,7 +4857,7 @@
       "codigo_convite_referido": "76793759",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 0
+      "saldo": 2700
     },
     {
       "id": 43127231,
@@ -4938,9 +4938,30 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
-    }
+    },
+    {
+      "id": 21123609,
+      "telefone": "972304702",
+      "senha": "123123",
+      "codigo_convite": "61057153",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+  "id": 24013464,
+  "telefone": "973045985",
+  "senha": "Meu@iphone2022.",
+  "codigo_convite": "73383929",
+  "codigo_convite_referido": "50846520",
+  "nivel2": "",
+  "nivel3": "",
+  "saldo": 0
+}
   ],
   "deposito": [],
+  "depositos": [],
   "produto": [
     {
       "userId": "50360800",
@@ -5475,7 +5496,6 @@
   ],
   "cheq": [],
   "vip": [],
-  "depositos": [],
   "historico": [
     {
       "user_id": 16681148,
@@ -5812,6 +5832,14 @@
       "description": "Depósito via BFA",
       "timestamp": "2025-06-15T17:52:36.354Z",
       "id": 42
+    },
+    {
+      "user_id": 83654585,
+      "type": "deposito",
+      "amount": "+15000",
+      "description": "Depósito via BAI",
+      "timestamp": "2025-06-15T20:28:24.040Z",
+      "id": 43
     }
   ]
 }
