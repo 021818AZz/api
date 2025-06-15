@@ -8,7 +8,7 @@
       "codigo_convite_referido": "9a580f55",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 5958
+      "saldo": 5985
     },
     {
       "id": 33089535,
@@ -58,7 +58,7 @@
       "codigo_convite_referido": "89696858",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 5040
+      "saldo": 6540
     },
     {
       "id": 81265975,
@@ -68,7 +68,7 @@
       "codigo_convite_referido": "77015601",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 1041
+      "saldo": 1095
     },
     {
       "id": 13369197,
@@ -108,7 +108,7 @@
       "codigo_convite_referido": "26672713",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 1164
+      "saldo": 1704
     },
     {
       "id": 28172587,
@@ -208,7 +208,7 @@
       "codigo_convite_referido": "30858726",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 3540
+      "saldo": 4080
     },
     {
       "id": 44735821,
@@ -348,7 +348,7 @@
       "codigo_convite_referido": "30858726",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 0
+      "saldo": 270
     },
     {
       "id": 21451152,
@@ -458,7 +458,7 @@
       "codigo_convite_referido": "66757547",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 1800
+      "saldo": 3300
     },
     {
       "id": 47732368,
@@ -1328,7 +1328,7 @@
       "codigo_convite_referido": "89696858",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 0
+      "saldo": 19600
     },
     {
       "id": 39802454,
@@ -1998,7 +1998,7 @@
       "codigo_convite_referido": "55181128",
       "nivel2": "",
       "nivel3": "",
-      "saldo": 270
+      "saldo": 540
     },
     {
       "id": 15188715,
@@ -3049,10 +3049,528 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": 12481034,
+      "telefone": "926320289",
+      "senha": "123456",
+      "codigo_convite": "18956673",
+      "codigo_convite_referido": "55797119",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 99583971,
+      "telefone": "946908791",
+      "senha": "Augusto2025",
+      "codigo_convite": "49159868",
+      "codigo_convite_referido": "10463898",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 73297796,
+      "telefone": "934507086",
+      "senha": "KIBENZE",
+      "codigo_convite": "37251103",
+      "codigo_convite_referido": "77015601",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 10861711,
+      "telefone": "934507086",
+      "senha": "KIBENZE",
+      "codigo_convite": "89849481",
+      "codigo_convite_referido": "77015601",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 33731904,
+      "telefone": "938508460",
+      "senha": "Vissetaca",
+      "codigo_convite": "92983077",
+      "codigo_convite_referido": "50963156",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 13604319,
+      "telefone": "925540426",
+      "senha": "Ngumbe5420",
+      "codigo_convite": "11697069",
+      "codigo_convite_referido": "84380202",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 23022664,
+      "telefone": "929740624",
+      "senha": "Lorena",
+      "codigo_convite": "53653477",
+      "codigo_convite_referido": "50963156",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 63057636,
+      "telefone": "954892387",
+      "senha": "Ngumbe5420",
+      "codigo_convite": "39076128",
+      "codigo_convite_referido": "11697069",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 61681017,
+      "telefone": "938172524",
+      "senha": "123456",
+      "codigo_convite": "45237193",
+      "codigo_convite_referido": "64905717",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 35053180,
+      "telefone": "956015375",
+      "senha": "TEATRO",
+      "codigo_convite": "49877288",
+      "codigo_convite_referido": "44160905",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": "le3yvm",
+      "nome": "Telma Gabriel ",
+      "telefone": "937770918",
+      "senha": "04012018",
+      "codigo_convite": "0189LVMSH",
+      "codigo_convite_referido": "URI6OFKLL",
+      "saldo": 1000
+    },
+    {
+      "id": 54616388,
+      "telefone": "929244549",
+      "senha": "vilcia15",
+      "codigo_convite": "45461530",
+      "codigo_convite_referido": "55181128",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 65328412,
+      "telefone": "948678016",
+      "senha": "manass",
+      "codigo_convite": "87706689",
+      "codigo_convite_referido": "26672713",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 85663922,
+      "telefone": "929451786",
+      "senha": "101081",
+      "codigo_convite": "20595586",
+      "codigo_convite_referido": "84380202",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 48913879,
+      "telefone": "927352858",
+      "senha": "123456",
+      "codigo_convite": "46104296",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 88387300,
+      "telefone": "956441321",
+      "senha": "101081",
+      "codigo_convite": "88729963",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 75762274,
+      "telefone": "958551986",
+      "senha": "101081",
+      "codigo_convite": "96716663",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 90841653,
+      "telefone": "931284613",
+      "senha": "0402210",
+      "codigo_convite": "96906880",
+      "codigo_convite_referido": "44781406",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 31942765,
+      "telefone": "957205939",
+      "senha": "Mexicano",
+      "codigo_convite": "86870405",
+      "codigo_convite_referido": "93920623",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 11832711,
+      "telefone": "924230956",
+      "senha": "nascimento1203",
+      "codigo_convite": "50934160",
+      "codigo_convite_referido": "67738732",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 53646041,
+      "telefone": "942227108",
+      "senha": "949817142",
+      "codigo_convite": "93863626",
+      "codigo_convite_referido": "48695038",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 58355414,
+      "telefone": "935336916",
+      "senha": "eduardo@",
+      "codigo_convite": "79700127",
+      "codigo_convite_referido": "26895293",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 53221072,
+      "telefone": "935336916",
+      "senha": "eduardo@",
+      "codigo_convite": "15376479",
+      "codigo_convite_referido": "26895293",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 56734987,
+      "telefone": "935336916",
+      "senha": "eduardo@",
+      "codigo_convite": "54190091",
+      "codigo_convite_referido": "26895293",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 71702395,
+      "telefone": "930289211",
+      "senha": "168641",
+      "codigo_convite": "39003130",
+      "codigo_convite_referido": "53653477",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 12662931,
+      "telefone": "942126320",
+      "senha": "Lisboangola13",
+      "codigo_convite": "55843993",
+      "codigo_convite_referido": "79700127",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 31612325,
+      "telefone": "947123576",
+      "senha": "jackson1988",
+      "codigo_convite": "26043545",
+      "codigo_convite_referido": "88011573",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 45449502,
+      "telefone": "929051922",
+      "senha": "133122",
+      "codigo_convite": "84172276",
+      "codigo_convite_referido": "79700127",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 67497101,
+      "telefone": "947101511",
+      "senha": "Paulafeia5",
+      "codigo_convite": "89169055",
+      "codigo_convite_referido": "44781406",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 65959542,
+      "telefone": "939807950",
+      "senha": "150898",
+      "codigo_convite": "13266047",
+      "codigo_convite_referido": "26895293",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 30543319,
+      "telefone": "926765059",
+      "senha": "Artur123",
+      "codigo_convite": "22874332",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 93282716,
+      "telefone": "926765059",
+      "senha": "Artur123",
+      "codigo_convite": "17377105",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 68860655,
+      "telefone": "944049791",
+      "senha": "Alfonsina123",
+      "codigo_convite": "20897471",
+      "codigo_convite_referido": "87629789",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 41112626,
+      "telefone": "944049791",
+      "senha": "Alfonsina123",
+      "codigo_convite": "76540579",
+      "codigo_convite_referido": "87629789",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 11446875,
+      "telefone": "926062760",
+      "senha": "562256",
+      "codigo_convite": "56864307",
+      "codigo_convite_referido": "93920623",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 27406415,
+      "telefone": "958043220",
+      "senha": "cavera",
+      "codigo_convite": "15766459",
+      "codigo_convite_referido": "11697069",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 10601832,
+      "telefone": "922898073",
+      "senha": "Elizabeth",
+      "codigo_convite": "27286840",
+      "codigo_convite_referido": "48706682",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 70044121,
+      "telefone": "927083451",
+      "senha": "piramidederoubo",
+      "codigo_convite": "85785431",
+      "codigo_convite_referido": "20014575",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 11768017,
+      "telefone": "942809686",
+      "senha": "202294",
+      "codigo_convite": "34603705",
+      "codigo_convite_referido": "84380202",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 30708869,
+      "telefone": "921879467",
+      "senha": "337733",
+      "codigo_convite": "51607578",
+      "codigo_convite_referido": "76793759",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 30626596,
+      "telefone": "945746104",
+      "senha": "123456789",
+      "codigo_convite": "31121353",
+      "codigo_convite_referido": "84380202",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 78091885,
+      "telefone": "945028522",
+      "senha": "Andre59",
+      "codigo_convite": "52482865",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 74510053,
+      "telefone": "945028522",
+      "senha": "Andre59",
+      "codigo_convite": "68499065",
+      "codigo_convite_referido": "9a580f55",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 16255418,
+      "telefone": "923487781",
+      "senha": "wilson",
+      "codigo_convite": "40275059",
+      "codigo_convite_referido": "93920623",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 79620149,
+      "telefone": "923836260",
+      "senha": "Vasconcelo2@",
+      "codigo_convite": "85156831",
+      "codigo_convite_referido": "84380202",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 58003355,
+      "telefone": "923836260",
+      "senha": "Vasconcelo2@",
+      "codigo_convite": "34352873",
+      "codigo_convite_referido": "84380202",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 61789948,
+      "telefone": "932820145",
+      "senha": "tiasao",
+      "codigo_convite": "17048026",
+      "codigo_convite_referido": "64905717",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 75970301,
+      "telefone": "926934579",
+      "senha": "armando",
+      "codigo_convite": "61401865",
+      "codigo_convite_referido": "64905717",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 96830331,
+      "telefone": "926698453",
+      "senha": "manucho",
+      "codigo_convite": "82482642",
+      "codigo_convite_referido": "64905717",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 37624064,
+      "telefone": "939029944",
+      "senha": "360motas",
+      "codigo_convite": "38526709",
+      "codigo_convite_referido": "88011573",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 59029431,
+      "telefone": "929735789",
+      "senha": "paulinho",
+      "codigo_convite": "32611917",
+      "codigo_convite_referido": "26672713",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
+    },
+    {
+      "id": 59095741,
+      "telefone": "922431183",
+      "senha": "A4444444",
+      "codigo_convite": "91439510",
+      "codigo_convite_referido": "49877288",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
     }
   ],
   "deposito": [],
-  "depositos": [],
   "produto": [
     {
       "userId": "50360800",
@@ -3063,7 +3581,7 @@
       "prazo": 90,
       "dataCompra": "2025-06-14T13:26:06.137Z",
       "id": 1,
-      "lastCollection": "2025-06-14T14:00:45.958Z"
+      "lastCollection": "2025-06-15T07:22:29.155Z"
     },
     {
       "userId": "81265975",
@@ -3085,7 +3603,7 @@
       "prazo": 90,
       "dataCompra": "2025-06-14T14:11:39.051Z",
       "id": 3,
-      "lastCollection": "2025-06-14T14:11:53.841Z"
+      "lastCollection": "2025-06-15T07:28:58.597Z"
     },
     {
       "userId": "16681148",
@@ -3107,7 +3625,7 @@
       "prazo": 90,
       "dataCompra": "2025-06-14T15:27:00.747Z",
       "id": 5,
-      "lastCollection": "2025-06-14T15:27:14.718Z"
+      "lastCollection": "2025-06-15T07:31:55.160Z"
     },
     {
       "userId": "27978997",
@@ -3172,7 +3690,7 @@
       "prazo": 90,
       "dataCompra": "2025-06-14T20:46:14.673Z",
       "id": 11,
-      "lastCollection": "2025-06-14T20:46:28.575Z"
+      "lastCollection": "2025-06-15T07:04:48.071Z"
     },
     {
       "userId": "11929096",
@@ -3182,7 +3700,8 @@
       "renda_total": 1764000,
       "prazo": 90,
       "dataCompra": "2025-06-14T20:54:28.295Z",
-      "id": 12
+      "id": 12,
+      "lastCollection": "2025-06-15T07:10:22.509Z"
     },
     {
       "userId": "36313316",
@@ -3193,6 +3712,17 @@
       "prazo": 90,
       "dataCompra": "2025-06-14T21:07:00.825Z",
       "id": 13
+    },
+    {
+      "userId": "11688897",
+      "produto": "fanucss-1",
+      "preco": 2700,
+      "renda_diaria": 270,
+      "renda_total": 24300,
+      "prazo": 90,
+      "dataCompra": "2025-06-15T07:35:13.807Z",
+      "id": 14,
+      "lastCollection": "2025-06-15T07:35:28.389Z"
     }
   ],
   "retirada": [
@@ -3370,10 +3900,59 @@
       "account": "004000007611392510167",
       "createdAt": "2025-06-15T03:50:37.641Z",
       "id": 20
+    },
+    {
+      "userId": 84434687,
+      "name": "Ff",
+      "bankName": "BAI",
+      "account": "934431886444444444344",
+      "createdAt": "2025-06-15T04:45:45.922Z",
+      "id": 21
+    },
+    {
+      "userId": 84434687,
+      "name": "Ff",
+      "bankName": "BAI",
+      "account": "934431886448444444344",
+      "createdAt": "2025-06-15T04:45:58.199Z",
+      "id": 22
+    },
+    {
+      "userId": 13604319,
+      "name": "Alexandre Ngumbe",
+      "bankName": "BAI",
+      "account": "004000007824306510194",
+      "createdAt": "2025-06-15T05:16:01.862Z",
+      "id": 23
+    },
+    {
+      "userId": 48913879,
+      "name": "Paciência Enoque Bueti",
+      "bankName": "BAI",
+      "account": "004000005459309810131",
+      "createdAt": "2025-06-15T06:18:25.758Z",
+      "id": 24
+    },
+    {
+      "userId": "le3yvm",
+      "name": "Telma Gabriel",
+      "bankName": "ATL",
+      "account": "005500005160618110171",
+      "createdAt": "2025-06-15T06:31:27.068Z",
+      "id": 25
+    },
+    {
+      "userId": 11688897,
+      "name": "Neldes de Carvalho Sebastião",
+      "bankName": "ATL",
+      "account": "005500004896032010130",
+      "createdAt": "2025-06-15T07:31:16.217Z",
+      "id": 26
     }
   ],
   "cheq": [],
   "vip": [],
+  "depositos": [],
   "historico": [
     {
       "user_id": 16681148,
@@ -3502,6 +4081,46 @@
       "description": "Depósito via ATL",
       "timestamp": "2025-06-14T20:29:06.984Z",
       "id": 16
+    },
+    {
+      "user_id": 53646041,
+      "type": "deposito",
+      "amount": "+2700",
+      "description": "Depósito via ATL",
+      "timestamp": "2025-06-15T06:41:27.208Z",
+      "id": 17
+    },
+    {
+      "user_id": 53646041,
+      "type": "deposito",
+      "amount": "+2.700",
+      "description": "Depósito via ATL",
+      "timestamp": "2025-06-15T07:17:06.467Z",
+      "id": 18
+    },
+    {
+      "user_id": 11688897,
+      "type": "deposito",
+      "amount": "+2700",
+      "description": "Depósito via ATL",
+      "timestamp": "2025-06-15T07:17:24.193Z",
+      "id": 19
+    },
+    {
+      "user_id": 11688897,
+      "type": "deposito",
+      "amount": "+2700",
+      "description": "Depósito via ATL",
+      "timestamp": "2025-06-15T07:17:54.128Z",
+      "id": 20
+    },
+    {
+      "user_id": 73337173,
+      "type": "deposito",
+      "amount": "+2700",
+      "description": "Depósito via ATL",
+      "timestamp": "2025-06-15T07:44:09.406Z",
+      "id": 21
     }
   ]
 }
