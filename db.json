@@ -3568,9 +3568,20 @@
       "nivel2": "",
       "nivel3": "",
       "saldo": 0
+    },
+    {
+      "id": 47662160,
+      "telefone": "944644557",
+      "senha": "Maura944",
+      "codigo_convite": "91480378",
+      "codigo_convite_referido": "97327069",
+      "nivel2": "",
+      "nivel3": "",
+      "saldo": 0
     }
   ],
   "deposito": [],
+  "depositos": [],
   "produto": [
     {
       "userId": "50360800",
@@ -3953,7 +3964,6 @@
   ],
   "cheq": [],
   "vip": [],
-  "depositos": [],
   "historico": [
     {
       "user_id": 16681148,
